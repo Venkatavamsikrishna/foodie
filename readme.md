@@ -3,3 +3,5 @@
 # To check nodejs
 node --version
 
+# to check npm
+npm --version
